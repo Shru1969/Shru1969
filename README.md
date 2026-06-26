@@ -16,7 +16,7 @@ Computer Science Engineering Student | AI & ML Enthusiast | Data Analyst | Full 
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" alt="Coding Animation"/>
 </p>
 
 ---
