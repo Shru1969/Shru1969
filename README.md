@@ -19,6 +19,10 @@ Computer Science Engineering Student | AI & ML Enthusiast | Data Analyst | Full 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220"/>
 </p>
 
+
+
+
+
 ---
 
 # 💫 About Me
@@ -34,6 +38,10 @@ I enjoy building intelligent, data-driven applications that solve real-world pro
 - 💬 Ask me about Python, Django, React, SQL, REST APIs, Machine Learning, Data Analytics and DSA.
 - 📊 Interests: Artificial Intelligence, Machine Learning, Data Analytics, Data Visualization, Backend Development and Full Stack Engineering.
 - ⚡ Fun fact: I love turning raw data into meaningful insights and building intelligent applications that make everyday life easier.
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="220"/>
+</p>
 
 ---
 
