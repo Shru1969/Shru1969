@@ -37,7 +37,7 @@ I enjoy building intelligent, data-driven applications that solve real-world pro
 - ⚡ Fun fact: I love turning raw data into meaningful insights and building intelligent applications that make everyday life easier.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Images/Developer.gif" width="420">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Images/Developer.gif" width="420">
 </p>
 ---
 
