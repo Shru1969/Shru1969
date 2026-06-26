@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
@@ -174,4 +174,4 @@ I enjoy building intelligent, data-driven applications that solve real-world pro
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:8A2BE2&height=120&section=footer"/>
 </p>
-```
+
