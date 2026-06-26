@@ -36,9 +36,7 @@ I enjoy building intelligent, data-driven applications that solve real-world pro
 - 📊 Interests: Artificial Intelligence, Machine Learning, Data Analytics, Data Visualization, Backend Development and Full Stack Engineering.
 - ⚡ Fun fact: I love turning raw data into meaningful insights and building intelligent applications that make everyday life easier.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Images/Developer.gif" width="450"/>
-</p>
+
 ---
 
 # 🏅 GitHub Achievement
@@ -152,8 +150,7 @@ I enjoy building intelligent, data-driven applications that solve real-world pro
 
 > Enable a GitHub Action to generate this image.
 
-![Snake animation](https://raw.githubusercontent.com/Shru1969/Shru1969/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://github.com/Shru1969/Shru1969/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # ✍ Random Dev Quote
